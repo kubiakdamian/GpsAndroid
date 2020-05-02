@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GpsAndroid</string>
+    <string name="configurationId">configuration ID</string>
+    <string name="getConfigId">get ID</string>
+    <string name="configuration_name">configuration name</string>
+    <string name="geofence">Geofence</string>
+    <string name="clear_log">CLEAR LOG</string>
+    <string name="change_configuration">CHANGE CONFIGURATION</string>
+    <string name="stop">STOP</string>
+</resources>
